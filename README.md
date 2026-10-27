@@ -41,7 +41,7 @@ On Linux/macOS, you need Python ≥ 3.12.
 3. **Activate your learning path** (your teacher gives you its id):
 
    ```powershell
-   .\argos.exe learning-path add <learning-path-id>
+   ./argos.exe learning-path add <learning-path-id>
    ```
 
    This copies the exercises of the learning path into the `Exercises/`
@@ -50,7 +50,7 @@ On Linux/macOS, you need Python ≥ 3.12.
    Example, for the HE-Arc 1242.1 C course:
 
    ```powershell
-   .\argos.exe learning-path add HE-Arc_1242.1_C
+   ./argos.exe learning-path add HE-Arc_1242.1_C
    ```
 
 ## Doing an exercise
@@ -73,7 +73,7 @@ On Linux/macOS, you need Python ≥ 3.12.
    Fix every error and warning until it compiles, then run your program:
 
    ```powershell
-   .\main.exe
+   ./main.exe
    ```
 
    Try several inputs and compare with what the statement expects.
@@ -83,7 +83,7 @@ On Linux/macOS, you need Python ≥ 3.12.
    ```powershell
    cd Exercises/ex_0001_PrintHelloWorld
    gcc -Wall -Wextra -Wpedantic -Werror -std=c23 -o main.exe main.c ex_0001_PrintHelloWorld.c
-   .\main.exe
+   ./main.exe
    ```
 
    The program prints `hello, world`.
@@ -91,7 +91,7 @@ On Linux/macOS, you need Python ≥ 3.12.
    from the project root. On Windows:
 
    ```powershell
-   .\argos.exe check <exercise-id>
+   ./argos.exe check <exercise-id>
    ```
 
    On Linux/macOS (Python ≥ 3.12):
@@ -104,7 +104,7 @@ On Linux/macOS, you need Python ≥ 3.12.
 
    ```powershell
    cd ../..
-   .\argos.exe check 0001
+   ./argos.exe check 0001
    ```
 
    Without an id, `check` runs every exercise of your selected learning
