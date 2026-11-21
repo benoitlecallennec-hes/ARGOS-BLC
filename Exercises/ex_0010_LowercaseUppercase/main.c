@@ -8,6 +8,10 @@
 int main(void)
 {
   ex_0010_LowercaseUppercase();
+  ex_0010_LowercaseUppercase();
+  ex_0010_LowercaseUppercase();
+  ex_0010_LowercaseUppercase();
+  ex_0010_LowercaseUppercase();
 
   return 0;
 }
