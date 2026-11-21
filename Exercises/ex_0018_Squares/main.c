@@ -7,6 +7,7 @@
 
 int main(void)
 {
+  ex_0018_Squares(5);
 
   return 0;
 }
