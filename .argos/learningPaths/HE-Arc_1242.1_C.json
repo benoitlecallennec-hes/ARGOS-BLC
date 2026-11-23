@@ -77,9 +77,18 @@
     },
     {
       "name": "Pointers / dereferencing",
-      "pointsToComplete": 1,
+      "pointsToComplete": 3,
       "exercises": [
-        "ex_0034_Reset"
+        "ex_0034_Reset",
+        "ex_0184_DerefModify"
+      ]
+    },
+    {
+      "name": "Pass by address",
+      "pointsToComplete": 3,
+      "exercises": [
+        "ex_0033_SwapPtr",
+        "ex_0115_ClampInplace"
       ]
     }
   ]
