@@ -207,7 +207,13 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0029 | [Time](.argos/exercises/ex_0029_Time/README.en.md) · [fr](.argos/exercises/ex_0029_Time/README.fr.md) | structures (struct), functions (pass by value) | 🟡 medium |
 | 0030 | [Complex](.argos/exercises/ex_0030_Complex/README.en.md) · [fr](.argos/exercises/ex_0030_Complex/README.fr.md) | structures (struct), functions (pass by value) | 🔴 hard |
 | 0031 | [Person](.argos/exercises/ex_0031_Person/README.en.md) · [fr](.argos/exercises/ex_0031_Person/README.fr.md) | arrays of structures, strings | 🟡 medium |
+| 0033 | [Swap Ptr](.argos/exercises/ex_0033_SwapPtr/README.en.md) · [fr](.argos/exercises/ex_0033_SwapPtr/README.fr.md) | pass by address | 🟢 easy |
 | 0034 | [Reset](.argos/exercises/ex_0034_Reset/README.en.md) · [fr](.argos/exercises/ex_0034_Reset/README.fr.md) | pointers / dereferencing | 🟢 easy |
+| 0110 | [Minmax](.argos/exercises/ex_0110_Minmax/README.en.md) · [fr](.argos/exercises/ex_0110_Minmax/README.fr.md) | pass by address | 🟢 easy |
+| 0111 | [Div Mod](.argos/exercises/ex_0111_DivMod/README.en.md) · [fr](.argos/exercises/ex_0111_DivMod/README.fr.md) | pass by address | 🟡 medium |
+| 0114 | [Accumulate Stats](.argos/exercises/ex_0114_AccumulateStats/README.en.md) · [fr](.argos/exercises/ex_0114_AccumulateStats/README.fr.md) | pass by address | 🟡 medium |
+| 0115 | [Clamp Inplace](.argos/exercises/ex_0115_ClampInplace/README.en.md) · [fr](.argos/exercises/ex_0115_ClampInplace/README.fr.md) | pass by address | 🟡 medium |
+| 0183 | [Count Via Ptr](.argos/exercises/ex_0183_CountViaPtr/README.en.md) · [fr](.argos/exercises/ex_0183_CountViaPtr/README.fr.md) | pointers / dereferencing | 🟢 easy |
 | 0184 | [Deref Modify](.argos/exercises/ex_0184_DerefModify/README.en.md) · [fr](.argos/exercises/ex_0184_DerefModify/README.fr.md) | pointers / dereferencing | 🟡 medium |
 <!-- CATALOGUE:END -->
 
